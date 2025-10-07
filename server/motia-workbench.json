@@ -1,0 +1,12 @@
+[
+  {
+    "id": "basic-tutorial",
+    "config": {
+      "steps/state-audit-cron.step.ts": {
+        "x": -165,
+        "y": 217,
+        "sourceHandlePosition": "right"
+      }
+    }
+  }
+]
